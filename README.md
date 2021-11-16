@@ -49,7 +49,7 @@ to denoising messages in a related dataset
 *** [Code](https://github.com/pm78p/root/blob/main/Machine%20learning/6-probabilistic%20graphical%20models/codes.ipynb)
 
 [7-clustering k-means & EM & GMM](https://github.com/pm78p/root/tree/main/Machine%20learning/7-clustering%20k-means%20%26%20EM%20%26%20GMM) - Here we made a random dataset via sklearn 
-by make_classification function in this library. Then, implementing k-means and EM clusterings to classify the datas.
+by make_classification function in this library. Then, implementing k-means and EM to classify the datas.
 
 *** [Code](https://github.com/pm78p/root/blob/main/Machine%20learning/7-clustering%20k-means%20%26%20EM%20%26%20GMM/codes.ipynb)
 
