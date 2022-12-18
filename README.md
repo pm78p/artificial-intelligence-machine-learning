@@ -59,4 +59,9 @@ by make_classification function in this library. Then, implementing k-means and 
 
 *** [Code](https://github.com/pm78p/root/blob/main/Machine%20learning/8-CNN/codes.ipynb)
 
-
+### [computer vision](https://github.com/pm78p/root/tree/main/Machine%20learning)
+!!!sorry, incomplete list
+### [deep learning](https://github.com/pm78p/root/tree/main/Machine%20learning)
+!!!sorry, incomplete list
+### [kaggle competion](https://github.com/pm78p/root/tree/main/Machine%20learning)
+!!!sorry, incomplete list
