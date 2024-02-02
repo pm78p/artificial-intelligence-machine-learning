@@ -60,6 +60,32 @@ by make_classification function in this library. Then, implementing k-means and 
 *** [Code](https://github.com/pm78p/root/blob/main/Machine%20learning/8-CNN/codes.ipynb)
 
 ### [computer vision](https://github.com/pm78p/root/tree/main/computer%20vision)
+[1-panaromic image](https://github.com/pm78p/artificial-intelligence-machine-learning) - Here, provided Python script executes an image stitching process to create a panorama from multiple images. It uses the SIFT feature detection algorithm to find keypoints and descriptors in overlapping image regions. The RANSAC algorithm is utilized to robustly estimate homography matrices despite outliers, aligning images relative to a central reference. The script then warps and blends the images into a single panoramic output. It includes a function for autocropping to remove the black edges resulting from the warping process, optimizing the visual result. This script effectively demonstrates computer vision techniques to stitch images for applications like panoramic photography.
+
+[Input](https://github.com/pm78p/artificial-intelligence-machine-learning/tree/main/computer%20vision/first%20step/panaroma/input%20data):
+8 different pictures in different unknown angels.
+
+<p align="center">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/03.JPG" width="100" alt="Image 1">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/04.JPG" width="100" alt="Image 2">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/05.JPG" width="100" alt="Image 3">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/06.JPG" width="100" alt="Image 4">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/07.JPG" width="100" alt="Image 5">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/08.JPG" width="100" alt="Image 6">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/09.JPG" width="100" alt="Image 7">
+  <img src="https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/input%20data/10.JPG" width="100" alt="Image 8">
+  <!-- Add more images as needed -->
+</p>
+
+
+The results:
+
+![results](https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/r13_crop.jpg)
+
+*** [Code](https://github.com/pm78p/artificial-intelligence-machine-learning/blob/main/computer%20vision/first%20step/panaroma/codes.py)
+
+2- ......
+
 !!!sorry, incomplete list
 ### [deep learning](https://github.com/pm78p/root/tree/main/deep%20learning)
 !!!sorry, incomplete list
